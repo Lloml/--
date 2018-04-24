@@ -1,0 +1,20 @@
+#1 bestCharge
+输入:
+    inputs: string
+    getCharge: number : 函数getCharge
+    bestProject: string: 函数getProject
+ 输出:
+    discount: string
+    order: object: 函数getCharge
+
+#2 getCharge
+输入: 
+    order: object
+输出:
+    charge_ob : object 
+
+#3 bestProject
+输入:
+    charge_ob :object
+输出:
+    bestproject: string
